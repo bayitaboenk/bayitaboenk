@@ -1,48 +1,34 @@
-# Hi, saya Bayita 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:2ea043&height=180&section=header&text=bayitaboenk&fontSize=50&fontColor=ffffff&animation=fadeIn" width="100%" />
 
-Mahasiswa Informatika semester akhir. Lagi sibuk nyusun skripsi, magang, dan ngopi dalam jumlah yang kurang sehat.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2EA043&center=true&vCenter=true&width=435&lines=Informatics+Student+%F0%9F%8E%93;Semester+Akhir+%E2%80%A2+Skripsi+Mode+%E2%98%95;Magang+%40+Inatech+%F0%9F%92%BC" alt="Typing SVG" />
+</p>
 
-```text
-$ whoami
-bayitaboenk
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Nyusun_Skripsi-orange?style=for-the-badge&logo=latex&logoColor=white" />
+  <img src="https://img.shields.io/badge/Coffee-Overdosis-6F4E37?style=for-the-badge&logo=buymeacoffee&logoColor=white" />
+  <img src="https://img.shields.io/badge/Magang-Inatech-2ea043?style=for-the-badge&logo=briefcase&logoColor=white" />
+</p>
 
-$ status
-> semester  : akhir (tolong doakan)
-> sekarang  : magang + skripsi
-> bahan bakar: kopi & deadline
-```
+## 🛠️ Tech Stack
 
-## Lagi ngerjain apa
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,js,html,css,php,laravel,mysql,git,github,vscode,linux&perline=11" />
+</p>
 
-- 🎓 Skripsi (bab 3 katanya, tapi revisi tidak ada habisnya)
-- 💼 Magang di Inatec, tiap hari isi daily report
-- 📚 Belajar hal baru di luar materi kuliah
+## 📊 Stats
 
-## Tech stack
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bayitaboenk&show_icons=true&theme=github_dark&hide_border=true" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bayitaboenk&theme=github-dark&hide_border=true" height="150" />
+</p>
 
-Yang pernah dipakai dan masih ingat sintaksnya:
+## 📫 Contact
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+<p align="center">
+  <a href="mailto:isi_email_kamu@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/isi-username"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://instagram.com/isi_username"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+</p>
 
-## Fun fact
-
-- Commit message terbaik saya: `fix bug` (bug apa? tidak ingat)
-- Folder `final_revisi_fix_beneran_2` di laptop itu nyata
-- Tidur normal itu mitos, apalagi pas mendekati deadline
-- Lebih sering Googling error daripada nulis kode, dan itu sah-sah saja
-
-## Statistik
-
-![Stats](https://github-readme-stats.vercel.app/api?username=bayitaboenk&show_icons=true&theme=github_dark&hide_border=true)
-
-## Kontak
-
-Terbuka untuk diskusi, kolaborasi, atau sekadar bertukar keluh kesah soal skripsi.
----
-<sub>Last updated: Oktober 2026. Masih di semester akhir, belum wisuda 🥲</sub>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2ea043,100:0d1117&height=100&section=footer" width="100%" />
